@@ -51,7 +51,8 @@
   .slicknav_nav ul {
     display: block; }
   .slicknav_nav li {
-    display: block; }
+    display: block;
+  }
   .slicknav_nav .slicknav_arrow {
     font-size: 0.8em;
     margin: 0 0 0 0.4em; }
@@ -210,11 +211,12 @@
 }
 
 .slicknav_nav a {
-    font-size: 14px;
+    font-size: 20px;
     font-weight: 400;
     color: #000;
     text-transform: capitalize;
 }
+
 
 .slicknav_nav .slicknav_arrow {
     float: right;
